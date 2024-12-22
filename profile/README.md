@@ -5,4 +5,4 @@
 
 🙋‍♀️ Somos uma empresa apaixonada por desenvolver soluções criativas.
 
-🍿 Fato engraçado: a "criptografia" do banco de dados do nosso suposto concorrente ainda usa MD5.
+🍿 Fato engraçado: a "criptografia" do banco de dados do nosso concorrente ainda usa MD5.
