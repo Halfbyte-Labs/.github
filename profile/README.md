@@ -1,4 +1,4 @@
-![Banner da comunidade de desenvolvedores](https://github.com/Halfbyte-Labs/.github/blob/main/profile/cover.png?raw=true)
+![Banner da comunidade de desenvolvedores](https://github.com/Halfbyte-Labs/.github/blob/main/profile/new.png?raw=true)
 
 # 👋 Bem-vindos a HalfByte
 
